@@ -14,6 +14,9 @@ h3 {
 h1 {
 	margin-top: 20px;
 }
+.ancla:hover {
+	color: white;
+}
 .iconos {
 	margin-left:57px;
 }
@@ -37,15 +40,22 @@ h1 {
 .icono1 {
 	width: 363px;
 	height: 421px;
-	border:black 2px solid;
+	border-bottom:#D8D8D8 2px solid;
 	margin-left: 26px;
     margin-top: 55px;
-
+    transition: all 0.4s ease;
+    
+}
+.icono1:hover{
+  background-color:#47A3DA;
 }
 .fa-anchor {
 	color:#47A3DA; 
 	margin-top: 100px;
 	margin-left: 133px;
+}
+.fa-anchor:hover {
+	color:white;
 }
 .linea {
 	height: 6px;
@@ -53,5 +63,19 @@ h1 {
 	background-color:#47A3DA; 
 	margin-top: 85px;
 	margin-left:95px;
-
 }
+.linea:hover {
+	height: 6px;
+	width: 161px;
+	background-color:white; 
+	margin-top: 85px;
+	margin-left:95px;
+}
+
+/*MEDIA QUERY*/ 
+
+@media (min-width:400px){
+
+@media (min-width:1024px){
+}
+
