@@ -10,9 +10,9 @@
     <body>
     <div class="container">
     	<header class="fondo">
-			<h3 class="uno">Blueprint</h3>
-   	   		<h1 class="dos">Responsive Icon Grid</h1>
-   	   	</header>
+			   <h3 class="uno">Blueprint</h3>
+   	   	 <h1 class="dos">Responsive Icon Grid</h1>
+   	   </header>
    	</div>
     <div class="iconos">
       <div class="circulo"><i class="fa fa-arrow-left fa-2x" aria-hidden="true"></i>
@@ -24,12 +24,37 @@
       <div class="circulo"><i class="fa fa-hand-peace-o fa-2x" aria-hidden="true"></i>
       </div>
     </div>
+
     <div class="icono1">
       <i class="fa fa-anchor fa-5x" aria-hidden="true"></i>
       <div class="linea"></div>
       <h1 class="ancla">Mejor con ancla</h1>
     </div>
-
+    <div class="icono2">
+      <i class="fa fa-ship fa-5x" aria-hidden="true"></i>
+      <div class="linea"></div>
+      <h1 class="ancla">Mejor con barco</h1>
+    </div>
+    <div class="icono3">
+      <i class="fa fa-space-shuttle fa-5x" aria-hidden="true"></i>
+      <div class="linea"></div>
+      <h1 class="ancla">Mejor con nave</h1>
+    </div>
+    <div class="icono4">
+      <i class="fa fa-diamond fa-5x" aria-hidden="true"></i>
+      <div class="linea"></div>
+      <h1 class="ancla">Mejor con diamante</h1>
+    </div>
+    <div class="icono5">
+      <i class="fa fa-camera fa-5x" aria-hidden="true"></i>
+      <div class="linea"></div>
+      <h1 class="ancla">Mejor con camara</h1>
+    </div>
+    <div class="icono6">
+      <i class="fa fa-rocket fa-5x" aria-hidden="true"></i>
+      <div class="linea"></div>
+      <h1 class="ancla">Mejor con cohete</h1>
+    </div>
 
 
 
