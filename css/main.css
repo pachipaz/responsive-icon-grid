@@ -1,0 +1,57 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+/*TEXTOS E ICONOS ENCABEZADOS*/
+h1, h3 {
+	color:#47A3DA;
+	text-align: center;
+}
+h3 {
+	margin-top: 50px;
+}
+h1 {
+	margin-top: 20px;
+}
+.iconos {
+	margin-left:57px;
+}
+.circulo{
+   width: 60px;
+   height: 60px;
+   background-color:white;
+   border: #47A3DA 4px solid;
+   border-radius: 35px;
+   margin-top: 52px;
+   text-align: center;
+   display: inline-block;
+}
+.fa-arrow-left, .fa-arrow-right, .fa-tint,.fa-hand-peace-o {
+	color:#47A3DA; 
+	display: inline-block;
+	text-align:center;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.icono1 {
+	width: 363px;
+	height: 421px;
+	border:black 2px solid;
+	margin-left: 26px;
+    margin-top: 55px;
+
+}
+.fa-anchor {
+	color:#47A3DA; 
+	margin-top: 100px;
+	margin-left: 133px;
+}
+.linea {
+	height: 6px;
+	width: 161px;
+	background-color:#47A3DA; 
+	margin-top: 85px;
+	margin-left:95px;
+
+}
