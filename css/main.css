@@ -33,6 +33,16 @@ h1 {
    text-align: center;
    display: inline-block;
 }
+/*.fa-arrow-left:hover, .fa-arrow-right:hover, .fa-tint:hover,.fa-hand-peace-o:hover {
+	color:#47A3DA; 
+	display: inline-block;
+	text-align:center;
+	margin-top: 20px;
+	font-size: 20px;
+}*/
+
+
+
 .fa-arrow-left, .fa-arrow-right, .fa-tint,.fa-hand-peace-o {
 	color:#47A3DA; 
 	display: inline-block;
@@ -52,6 +62,7 @@ h1 {
     
 }
 /*HOVER*/
+/*background*/
 .icono1:hover{
   background-color:#47A3DA;
 }
@@ -70,6 +81,7 @@ h1 {
 .icono6:hover{
   background-color:#47A3DA;
 }
+
 .fa-anchor, .fa-ship, .fa-space-shuttle,.fa-diamond,.fa-camera,.fa-rocket {
 	color:#47A3DA; 
 	margin-top: 100px;	
@@ -83,18 +95,35 @@ h1 {
 	margin-top: 85px;
 	margin-left:95px;
 }
- .icono1:hover ,.fa{
+.icono1:hover .linea, .icono2:hover .linea, .icono3:hover .linea, .icono4:hover .linea, .icono5:hover .linea , .icono6:hover .linea {
+	background-color: white;
+}
+
+.icono1:hover .fa, .icono2:hover .fa,.icono3:hover .fa,.icono4:hover .fa,.icono5:hover .fa, .icono6:hover .fa{
 	color:white;
 }
-.icono1:hover, .linea {
+.icono1:hover .linea:{
+	color: white;
+}		
+.icono1:hover .ancla{
 	color: white;
 }
-.icono1:hover ,.ancla{
-	color: white;
+.icono2:hover .ancla {
+	color:white;
 }
-.icono1:hover, .linea {
-	color: white;
+.icono3:hover .ancla {
+	color:white;
 }
+.icono4:hover .ancla {
+	color:white;
+}
+.icono5:hover .ancla {
+	color:white;
+}
+.icono6:hover .ancla {
+	color:white;
+}
+
 
 
 /*.linea:hover {
